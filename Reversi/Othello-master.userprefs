@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AIManager.cs" Line="114" Column="2" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="103" Column="4" />
+      <File FileName="Assets\Scripts\Board.cs" Line="138" Column="5" />
+      <File FileName="Assets\Scripts\MonteCarloNode.cs" Line="45" Column="57" />
+      <File FileName="Assets\Scripts\TileManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIManager.cs" Line="24" Column="1" />
+      <File FileName="Assets\Scripts\CameraManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerSettings.cs" Line="90" Column="30" />
+      <File FileName="Assets\Scripts\Point.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Scott\Desktop\Othello-master v5\Othello-master\Assets\Scripts\GameManager.cs" line="123" />
+      <Breakpoint file="C:\Users\Scott\Desktop\Othello-master v5\Othello-master\Assets\Scripts\AIManager.cs" line="94" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
